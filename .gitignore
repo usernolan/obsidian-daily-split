@@ -1,0 +1,6 @@
+# OS / editor cruft
+.DS_Store
+*.log
+
+# Obsidian writes per-vault plugin settings here; not part of the plugin source
+data.json

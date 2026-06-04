@@ -1,0 +1,10 @@
+{
+  "id": "daily-split",
+  "name": "Daily Split",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Split the active daily note: keep completed items here, carry the active set forward to the next day.",
+  "author": "nolan",
+  "authorUrl": "https://github.com/usernolan",
+  "isDesktopOnly": true
+}
